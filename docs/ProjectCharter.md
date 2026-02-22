@@ -45,7 +45,7 @@ The project strengthens the University’s credibility and supports student welf
 
 ## **POSSIBLE REQUIREMENTS OF THE CONTRACTING AUTHORITY:**
 
-  a. DESCRIPTION OF THE FINISHED PRODUCT, SERVICE, OR RESULT 
+**a) Description of the finished product, service or result**
 
 The project will deliver:
 
@@ -59,7 +59,7 @@ The project will deliver:
 
 Certification will be valid for 12 months, and participation is voluntary.
 
- b. REPORTING AND FINAL REPORT   
+ **b) Reporting and final report**
 The Project Manager will provide monthly progress reports to the Steering Committee, including:
 
 * Timeline status
