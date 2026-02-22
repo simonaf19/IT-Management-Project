@@ -1,33 +1,8 @@
-## 
 
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
 
 **Housing Quality & Safety Certification Program**  
  *A pilot initiative to standardize rental housing safety and transparency for students.*
 
-## 
-
-## 
-
-## 
 
 **February 2026**  
 **Authors:** Anastasija Simunoska, Simona Filiposka, Zhasmin Sarvarova, Amir Garipov
@@ -40,7 +15,7 @@
 
 ## **DESCRIPTION**
 
-## Finding a rental apartment is stressful enough, but for students and newcomers, it often comes with an extra layer of risk: misleading listings, hidden mold or structural issues, and landlords who vanish after you sign. There is currently no easy way for a renter to know whether an apartment is actually safe and livable before moving in.
+Finding a rental apartment is stressful enough, but for students and newcomers, it often comes with an extra layer of risk: misleading listings, hidden mold or structural issues, and landlords who vanish after you sign. There is currently no easy way for a renter to know whether an apartment is actually safe and livable before moving in.
 
 This project builds a certification program that solves exactly that. We want to develop a system where apartments can be inspected and certified by trained, independent inspectors, and listed in a public online registry that anyone can check before renting. 
 
@@ -51,6 +26,18 @@ The program starts in one city (pilot), focused on student housing, and expands 
 **Contracting Authority:** University of Primorska  
 **Internal Client:** Head of Student Housing  
 **Possible partners:** Municipality of Koper, Student Organization of UP, and real estate agencies.
+
+## **THE PURPOSE AND THE OBJECTIVES OF THE PROJECT** 
+
+**Purpose:** Build a working certification system for rental apartments: from inspection standards to a public registry of verified properties.
+
+**Objectives:**
+
+* Define clear safety and habitability criteria for rental housing  
+* Train independent housing inspectors  
+* Launch a public online registry of certified properties  
+* Certify at least 200 apartments in the pilot city within 12 months  
+* Expand to 3 additional cities by month 24
 
 ## **PROJECT LIMITATIONS:** 
 
