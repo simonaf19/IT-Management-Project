@@ -62,7 +62,7 @@ Provides supervision and approves key project decisions. Members participate as 
 
 ## **RISK ASSESSMENT** 
 
-## The project is assessed as medium risk due to possible low participation from landlords, dependency on institutional cooperation, legal liability concerns related to certification, and budget limitations.  These risks will be managed through clear legal guidelines, institutional support, phased implementation, and awareness campaigns to encourage participation.
+The project is assessed as medium risk due to possible low participation from landlords, dependency on institutional cooperation, legal liability concerns related to certification, and budget limitations.  These risks will be managed through clear legal guidelines, institutional support, phased implementation, and awareness campaigns to encourage participation.
 
 ## **DATE OF ORDER** 
 
