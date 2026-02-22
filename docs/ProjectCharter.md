@@ -5,7 +5,7 @@
 
 
 **February 2026**  
-**Authors:** Anastasija Simunoska, Simona Filiposka, Zhasmin Sarvarova, Amir Garipov
+**Authors:** Anastasija Simunoska 89231023, Simona Filiposka 89231165, Zhasmin Sarvarova 89231228, Amir Garipov 89231145
 
                            
 
