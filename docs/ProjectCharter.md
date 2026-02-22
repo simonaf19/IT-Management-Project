@@ -58,6 +58,7 @@ The project will deliver:
 * A complaint and reporting mechanism
 
 Certification will be valid for 12 months, and participation is voluntary.
+
 **b) Reporting and final report**
  
 The Project Manager will provide monthly progress reports to the Steering Committee, including:
