@@ -1,3 +1,13 @@
+## **PROJECT CLIENT** 
+
+**Contracting Authority:** University of Primorska  
+**Internal Client:** Head of Student Housing  
+**Possible partners:** Municipality of Koper, Student Organization of UP, and real estate agencies.
+
+## **THE IMPORTANCE OF THE PROJECT FOR THE ORGANIZATION AND ITS ENVIRONMENT** 
+
+The project strengthens the University’s credibility and supports student welfare by improving transparency in the rental market. Certified properties gain a competitive advantage, encouraging landlords to improve standards. The program increases safety for tenants and contributes to higher overall housing quality in the region.
+
 ## **PROJECT LIMITATIONS:** 
 
 **a) Rough Schedule**   
@@ -49,4 +59,17 @@ Provides legal support related to certification rules, liability, and data prote
 
 **Steering Committee (internal members)**  
 Provides supervision and approves key project decisions. Members participate as part of their regular university roles and are not additionally paid.
+
+## **RISK ASSESSMENT** 
+
+## The project is assessed as medium risk due to possible low participation from landlords, dependency on institutional cooperation, legal liability concerns related to certification, and budget limitations.  These risks will be managed through clear legal guidelines, institutional support, phased implementation, and awareness campaigns to encourage participation.
+
+## **DATE OF ORDER** 
+
+February 16, 2026
+
+## **CLIENT AND SIGNATURE** 
+
+Approved by: University of Primorska  
+Date: 22.02.2026
 
