@@ -43,6 +43,35 @@ The project strengthens the University’s credibility and supports student welf
 * Certify at least 200 apartments in the pilot city within 12 months  
 * Expand to 3 additional cities by month 24
 
+## **POSSIBLE REQUIREMENTS OF THE CONTRACTING AUTHORITY:**
+
+  a. DESCRIPTION OF THE FINISHED PRODUCT, SERVICE, OR RESULT 
+
+The project will deliver:
+
+* A defined Housing Quality Standard (HQS)
+
+* A structured inspection and certification procedure
+
+* A public web-based registry of certified properties
+
+* A complaint and reporting mechanism
+
+Certification will be valid for 12 months, and participation is voluntary.
+
+ b. REPORTING AND FINAL REPORT   
+The Project Manager will provide monthly progress reports to the Steering Committee, including:
+
+* Timeline status
+
+* Budget overview
+
+* Risk updates
+
+* Key milestones achieved
+
+A final project report will summarize implementation results, pilot outcomes, certified units, user feedback, financial overview, and recommendations for expansion.
+
 ## **PROJECT LIMITATIONS:** 
 
 **a) Rough Schedule**   
