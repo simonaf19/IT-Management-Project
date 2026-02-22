@@ -4,10 +4,6 @@
 **Internal Client:** Head of Student Housing  
 **Possible partners:** Municipality of Koper, Student Organization of UP, and real estate agencies.
 
-## **THE IMPORTANCE OF THE PROJECT FOR THE ORGANIZATION AND ITS ENVIRONMENT** 
-
-The project strengthens the University’s credibility and supports student welfare by improving transparency in the rental market. Certified properties gain a competitive advantage, encouraging landlords to improve standards. The program increases safety for tenants and contributes to higher overall housing quality in the region.
-
 ## **PROJECT LIMITATIONS:** 
 
 **a) Rough Schedule**   
