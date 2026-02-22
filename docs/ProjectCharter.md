@@ -46,7 +46,7 @@ The project strengthens the University’s credibility and supports student welf
 
 ## **PROJECT MANAGER AND TEAM, ROLES AND EMPLOYMENT** 
 
-## **Project Manager (part-time, 12 months)** Responsible for organizing the project, managing the timeline and budget, coordinating partners, and preparing reports.
+**Project Manager (part-time, 12 months)** Responsible for organizing the project, managing the timeline and budget, coordinating partners, and preparing reports.
 
 **Technical Lead (contract-based)**  
 Responsible for developing and maintaining the online registry system.
