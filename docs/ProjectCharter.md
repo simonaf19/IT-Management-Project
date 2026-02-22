@@ -7,7 +7,7 @@
 **February 2026**  
 **Authors:** Anastasija Simunoska, Simona Filiposka, Zhasmin Sarvarova, Amir Garipov
 
-                           
+https://github.com/simonaf19/IT-Management-Project/tree/main
 
 ## **PROJECT CODE AND NAME** 
 
