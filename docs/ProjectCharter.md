@@ -5,7 +5,7 @@
 
 
 **February 2026**  
-**Authors:** Anastasija Simunoska, Simona Filiposka, Zhasmin Sarvarova, Amir Garipov
+**Authors:** Anastasija Simunoska 89231023, Simona Filiposka 89231165, Zhasmin Sarvarova 89231228, Amir Garipov 89231145
 
 https://github.com/simonaf19/IT-Management-Project/tree/main
 
@@ -27,6 +27,10 @@ The program starts in one city (pilot), focused on student housing, and expands 
 **Internal Client:** Head of Student Housing  
 **Possible partners:** Municipality of Koper, Student Organization of UP, and real estate agencies.
 
+## **THE IMPORTANCE OF THE PROJECT FOR THE ORGANIZATION AND ITS ENVIRONMENT** 
+
+The project strengthens the University’s credibility and supports student welfare by improving transparency in the rental market. Certified properties gain a competitive advantage, encouraging landlords to improve standards. The program increases safety for tenants and contributes to higher overall housing quality in the region.
+
 ## **THE PURPOSE AND THE OBJECTIVES OF THE PROJECT** 
 
 **Purpose:** Build a working certification system for rental apartments: from inspection standards to a public registry of verified properties.
@@ -38,6 +42,36 @@ The program starts in one city (pilot), focused on student housing, and expands 
 * Launch a public online registry of certified properties  
 * Certify at least 200 apartments in the pilot city within 12 months  
 * Expand to 3 additional cities by month 24
+
+## **POSSIBLE REQUIREMENTS OF THE CONTRACTING AUTHORITY:**
+
+**a) Description of the finished product, service or result**
+
+The project will deliver:
+
+* A defined Housing Quality Standard (HQS)
+
+* A structured inspection and certification procedure
+
+* A public web-based registry of certified properties
+
+* A complaint and reporting mechanism
+
+Certification will be valid for 12 months, and participation is voluntary.
+
+**b) Reporting and final report**
+ 
+The Project Manager will provide monthly progress reports to the Steering Committee, including:
+
+* Timeline status
+
+* Budget overview
+
+* Risk updates
+
+* Key milestones achieved
+
+A final project report will summarize implementation results, pilot outcomes, certified units, user feedback, financial overview, and recommendations for expansion.
 
 ## **PROJECT LIMITATIONS:** 
 
