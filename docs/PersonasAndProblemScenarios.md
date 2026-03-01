@@ -52,17 +52,17 @@ Matjaž wants to present his apartment as well-maintained, but lacks an objectiv
 | Matjaž lists his apartment online, but struggles to convince potential tenants that his apartment is safe and well-maintained. This leads to hesitation, repeated questions, and slower rental agreements. | Matjaž provides photos and allows apartment visits to demonstrate quality. | Tenants may still not trust listings or assume problems are hidden. Visits take time, and safety conditions may be overlooked. | Through the Housing Quality & Safety Certification Program, Matjaž can obtain an official certification. His apartment would appear in a public registry, allowing tenants to verify housing quality, increasing trust and reducing uncertainty. |
 | | Matjaž asks previous tenants to provide references or positive feedback about the apartment. | Testimonials are subjective and may not be trusted by new tenants, since they are not verified and may appear biased. | |
 
-# **Persona 3: Nina Kovač**
+ **Persona 3: Nina Kovač**
 
-## **Function:**
+ **Function:**
 
 Municipal housing officer (public administration stakeholder)
 
-## **Screening Question:**
+ **Screening Question:**
 
 Are you responsible for handling housing complaints, monitoring rental conditions, or overseeing housing regulation compliance within your municipality?
 
-## **Description:**
+ **Description:**
 
 Nina is a 38-year-old municipal housing officer working in the city administration of Koper. She has a background in public policy and urban development and has been working in the housing department for over ten years. Nina is organized, analytical, and highly aware of how housing quality affects public health and student well-being. She dresses professionally, prefers structured processes, and relies heavily on documentation and formal procedures.
 
