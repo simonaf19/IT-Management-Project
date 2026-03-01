@@ -26,7 +26,7 @@ Antonio stated that they would be willing to overpay for a newer apartment rathe
 
 | Problem Scenario 2 | Current Alternatives | Pitfalls of current solutions | Our solution |
 | ----- | ----- | ----- | ----- |
-| Antonio finds an apartment that looks clean, but the landlord refuses to allow an independent inspection before signing the contract, claiming it is unnecessary. | Antonio accepts the condition and signs the contract to avoid losing the apartment. | By signing without inspection, Antonio risks having serious health, financial, and legal problems if hidden mold issues emerge later. | If the apartment is certified within the Housing Quality & Safety Certification Program, Antonio can access verified inspection results, including humidity assessments and ventilation compliance. This reduces uncertainty without requiring personal negotiation or risking unfavorable contract terms. |
+| Antonio finds an apartment that looks clean, but the landlord refuses to allow an independent inspection before signing the contract, claiming it is unnecessary. | Antonio accepts the condition and signs the contract to avoid losing the apartment. | By signing without inspection, Antonio risks having serious health, financial, and legal problems if hidden mold issues emerge later. | If the apartment is certified within the Housing Quality & Safety Certification Program, Antonio can access verified inspection results, including humidity risk evaluation. This reduces uncertainty without requiring personal negotiation or risking unfavorable contract terms. |
 |  | Antonio requests a short-term rental period before committing to a long-term contract. | A short-term contract may come with a higher rent, or mold problems may not become visible. |  |
 
 
@@ -51,6 +51,11 @@ Matjaž wants to present his apartment as well-maintained, but lacks an objectiv
 | ----- | ----- | ----- | ----- |
 | Matjaž lists his apartment online, but struggles to convince potential tenants that his apartment is safe and well-maintained. This leads to hesitation, repeated questions, and slower rental agreements. | Matjaž provides photos and allows apartment visits to demonstrate quality. | Tenants may still not trust listings or assume problems are hidden. Visits take time, and safety conditions may be overlooked. | Through the Housing Quality & Safety Certification Program, Matjaž can obtain an official certification. His apartment would appear in a public registry, allowing tenants to verify housing quality, increasing trust and reducing uncertainty. |
 | | Matjaž asks previous tenants to provide references or positive feedback about the apartment. | Testimonials are subjective and may not be trusted by new tenants, since they are not verified and may appear biased. | |
+
+| Problem Scenario 2 | Current Alternatives | Pitfalls of current solutions | Our solution |
+| ----- | ----- | ----- | ----- |
+| Matjaž experiences a situation where a tenant publicly leaves a negative online review claiming “unsafe living conditions,” even though no official violation was confirmed. | Matjaž responds to the review online and tries to defend himself. | Online arguments damage reputation further. | Official certification provides verifiable documentation of compliance with safety and quality standards. If disputes arise, Matjaž can refer to inspection records rather than personal statements, protecting his reputation. |
+|  | Matjaž ignores the review and hopes future tenants will not notice it. | Ignoring reviews may reduce trust among potential tenants. |  |
 
  **Persona 3: Nina Kovač**
 
