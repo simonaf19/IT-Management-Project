@@ -3,10 +3,6 @@
 
 ## *Personas and Problem Scenarios*
 
-## 
-
-## 
-
 **March 2026**  
 **Authors:** Anastasija Simunoska 89231023, Simona Filiposka 89231165, Zhasmin Sarvarova 89231228, Amir Garipov 89231145
 
