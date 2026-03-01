@@ -6,6 +6,30 @@
 **March 2026**  
 **Authors:** Anastasija Simunoska 89231023, Simona Filiposka 89231165, Zhasmin Sarvarova 89231228, Amir Garipov 89231145
 
+**Persona 1: Antonio Gonzalez**
+
+**Function:**  
+Tentant
+
+**Screening Question**: Have you had to find housing on your own, and if so, did you have any hidden problems with it that were hidden or unclear before signing a contract?
+
+**Description:**  
+Antonio is a 20-year-old international student from Argentina. Currently lives in Koper with his girlfriend. Has a part-time job at a help desk in a local museum. Antonio is a calm young man with a cheerful personality, who prioritises comfort and convenience. Prefers to walk everywhere and enjoys spending quiet evenings reading. Is allergic to mold. He had a bad experience before when his landlord hid the fact that the building has black mold problem, which led to Antonio having sleep and breathing problems due to his allergy. The landlord later accused him of damaging the property, even though the damage was caused by extensively grown black mold under the wallpapers caused by the age of the building. 
+
+Antonio stated that they would be willing to overpay for a newer apartment rather than take one from an old building, since it is hard to know potential pitfalls that are frequently understated or hidden by landlords, if they even are aware of those problems in the first place. However, it is a difficult decision for them in terms of budget; they are hesitant to just opt out.
+
+| Problem Scenario 1 | Current Alternatives | Pitfalls of current solutions | Our solution |
+| ----- | ----- | ----- | ----- |
+| Antonio finds a nice-looking apartment for a small price, but he is afraid of it having hidden mold that will cause him to have sleep and breathing problems again. | Antonio can ask landlords about potential mold problems. | Highly dependent on the honesty of the landlord or their being aware of mold problems. | Antonio would be able to look up buildings of apartments that he is interested in our database and see all potential problems with it, which he can later ask about from landlords. Alternatively, if housing is not tracked by the service, Antonio can browse already tracked housing and look for available places that satisfy his needs. |
+|  | Antonio can hire a real estate agent from an agency that can investigate or search for potential housing that satisfies their needs for an additional cost. | Adds additional costs on top of the price of contract signage, which can be over their budget. |  |
+|  | Antonio can try to look for potential signs of mold during apartment viewing. | Sometimes mold problems could be hidden and difficult to detect at first sight in a short period of time. |  |
+
+| Problem Scenario 2 | Current Alternatives | Pitfalls of current solutions | Our solution |
+| ----- | ----- | ----- | ----- |
+| Antonio finds an apartment that looks clean, but the landlord refuses to allow an independent inspection before signing the contract, claiming it is unnecessary. | Antonio accepts the condition and signs the contract to avoid losing the apartment.  | By signing without inspection, Antonio risks having serious health, financial, and legal problems if hidden mold issues emerge later. | If the apartment is certified within the Housing Quality & Safety Certification Program, Antonio can access verified inspection results, including humidity assessments and ventilation compliance. This reduces uncertainty without requiring personal negotiation or risking unfavorable contract terms. |
+|  | Antonio requests a short-term rental period before committing to a long-term contract. | A short-term contract may come with a higher rent, or mold problems may not become visible. |  |
+
+
 **Persona 2: Matjaž Horvat** 
 
 **Function**  
