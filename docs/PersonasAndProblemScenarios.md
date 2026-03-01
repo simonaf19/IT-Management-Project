@@ -18,6 +18,12 @@ Antonio is a 20-year-old international student from Argentina. Currently lives i
 
 Antonio stated that they would be willing to overpay for a newer apartment rather than take one from an old building, since it is hard to know potential pitfalls that are frequently understated or hidden by landlords, if they even are aware of those problems in the first place. However, it is a difficult decision for them in terms of budget; they are hesitant to just opt out.
 
+| Thinks | Antonio believes that many rental risks are hidden and that tenants, especially students, do not have equal access to reliable information before signing contracts. |
+| :---- | :---- |
+| **Sees** | He sees attractive listings with low prices but limited transparency about building conditions.  |
+| **Feels** | Antonio feels anxious about repeating his previous negative experience with mold.  |
+| **Does** | He carefully compares listings, asks detailed questions during viewings, researches buildings online, and tries to evaluate potential risks before signing a contract.  |
+
 | Problem Scenario 1 | Current Alternatives | Pitfalls of current solutions | Our solution |
 | ----- | ----- | ----- | ----- |
 | Antonio finds a nice-looking apartment for a small price, but he is afraid of it having hidden mold that will cause him to have sleep and breathing problems again. | Antonio can ask landlords about potential mold problems. | Highly dependent on the honesty of the landlord or their being aware of mold problems. | Antonio would be able to look up buildings of apartments that he is interested in our database and see all potential problems with it, which he can later ask about from landlords. Alternatively, if housing is not tracked by the service, Antonio can browse already tracked housing and look for available places that satisfy his needs. |
@@ -46,6 +52,12 @@ He considers himself fair and responsible, but thinks that the rental market has
 A previous tenant complained about humidity problems and accused him of renting an unsafe apartment. Although the issue was later linked to ventilation habits, this conflict caused stress and made Matjaž worried about legal disputes and damage to his reputation. 
 
 Matjaž wants to present his apartment as well-maintained, but lacks an objective way to prove housing quality before signing contracts.
+
+| Thinks | Matjaž believes that most independent landlords are responsible, but lack objective tools to prove housing quality. He thinks trust in the rental market has declined and that transparency would benefit both landlords and tenants. |
+| :---- | :---- |
+| **Sees** | He sees increasing tenant suspicion, more detailed questions during viewings, and hesitation before signing contracts.  |
+| **Feels** | Matjaž feels frustrated that he has to constantly justify the condition of his apartment. |
+| **Does** | He posts listings online, arranges viewings after work hours, explains maintenance details to tenants, handles minor repairs himself, and tries to resolve disputes informally to avoid escalation. |
 
 | Problem Scenario 1 | Current Alternatives | Pitfalls of current solutions | Our solution |
 | ----- | ----- | ----- | ----- |
