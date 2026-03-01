@@ -51,3 +51,37 @@ Matjaž wants to present his apartment as well-maintained, but lacks an objectiv
 | ----- | ----- | ----- | ----- |
 | Matjaž lists his apartment online, but struggles to convince potential tenants that his apartment is safe and well-maintained. This leads to hesitation, repeated questions, and slower rental agreements. | Matjaž provides photos and allows apartment visits to demonstrate quality. | Tenants may still not trust listings or assume problems are hidden. Visits take time, and safety conditions may be overlooked. | Through the Housing Quality & Safety Certification Program, Matjaž can obtain an official certification. His apartment would appear in a public registry, allowing tenants to verify housing quality, increasing trust and reducing uncertainty. |
 | | Matjaž asks previous tenants to provide references or positive feedback about the apartment. | Testimonials are subjective and may not be trusted by new tenants, since they are not verified and may appear biased. | |
+
+# **Persona 3: Nina Kovač**
+
+## **Function:**
+
+Municipal housing officer (public administration stakeholder)
+
+## **Screening Question:**
+
+Are you responsible for handling housing complaints, monitoring rental conditions, or overseeing housing regulation compliance within your municipality?
+
+## **Description:**
+
+Nina is a 38-year-old municipal housing officer working in the city administration of Koper. She has a background in public policy and urban development and has been working in the housing department for over ten years. Nina is organized, analytical, and highly aware of how housing quality affects public health and student well-being. She dresses professionally, prefers structured processes, and relies heavily on documentation and formal procedures.
+
+Her department frequently receives complaints from tenants about mold, poor ventilation, electrical hazards, and unclear rental conditions. However, these complaints usually come after damage has already occurred. Nina often feels frustrated because her work is reactive rather than preventive. She lacks a centralized system that would allow her to monitor housing quality proactively or track recurring issues in specific buildings.
+
+She believes that the municipality should have clearer housing standards and measurable quality indicators, but currently, there is no unified framework that connects landlords, tenants, and public authorities. Nina wants a structured, transparent system that reduces disputes, improves housing standards, and minimizes administrative workload.
+
+| Thinks | Nina believes housing problems could be prevented with clearer standards and better monitoring. She thinks reactive complaint handling is inefficient and that decisions should be based on measurable data. |
+| :---- | :---- |
+| **Sees** | She sees recurring complaints about mold, humidity, and safety risks. She observes a lack of centralized data and repeated conflicts between tenants and landlords. |
+| **Feels** | Nina feels frustrated that her work is mostly reactive. She feels responsible for public safety but limited by insufficient tools and structured information. |
+| **Does** | She reviews complaints, organizes inspections, documents cases, and prepares reports for supervisors. Much of her time is spent resolving disputes after problems have already occurred. |
+
+| Problem Scenario 1 | Current Alternatives | Pitfalls of current solutions | Our solution |
+| ----- | ----- | ----- | ----- |
+| Nina receives repeated complaints about unsafe living conditions in the same building, but there is no centralized database that shows previous inspections or patterns of recurring issues. | Nina organizes a manual inspection after receiving each complaint. | Manual inspections require significant time and staff resources and cannot be conducted proactively for all properties. | A public Housing Quality and Safety Certification Registry would provide inspection history, certification validity, and documented issues for each property, enabling preventive monitoring and early identification of recurring risks. |
+|  | Nina issues warnings or fines if violations are confirmed. | Fines are reactive and do not prevent similar issues from occurring again in the future. |  |
+
+| Problem Scenario 2 | Current Alternatives | Pitfalls of current solutions | Our solution |
+| ----- | ----- | ----- | ----- |
+| Nina is asked by her supervisor to provide a report on housing quality trends, but she lacks measurable standards and reliable market-wide data. | Nina compiles complaint records from internal spreadsheets and past case files. | The data is fragmented, incomplete, and reflects only reported cases rather than the overall condition of the housing market. | A standardized Housing Quality and Safety Certification system with annual inspections and a centralized digital registry would provide Nina with measurable, comparable data across properties. This would allow her to prepare evidence-based reports, identify recurring risks, and support preventive housing policies with objective metrics. |
+|  | Nina conducts occasional surveys to estimate housing satisfaction levels. | Survey responses are irregular, voluntary, and may not accurately reflect structural safety or hidden issues. |  |
