@@ -20,13 +20,13 @@
 
 | Test Cases |
 | :---- |
-| **4\. Edit submitted review** Steps: Open previously submitted review → click “Edit.” Expected: User can update description or rating while keeping the original timestamp history. |
-| **5\. Report inappropriate review** Steps: Open review → click “Report.” Expected: System flags review for moderation and sends notification to administrators. |
+| **4\. Edit submitted review** Steps: Open previously submitted review → click “Edit.” Expected: User can update description or rating while keeping the original timestamp history. |
+| **5\. Report inappropriate review** Steps: Open review → click “Report.” Expected: System flags review for moderation and sends notification to administrators. |
 
 ### **User story 3**
 | Test Cases |
 | :---- |
-| **4\. Check certification validity** Steps: Open property profile → Click “Certifications” → Click “View Certification Details.” Expected: System displays certification validity status (Valid/Expired/Pending Inspection) together with the certification date and expiration date. |
+| **4\. Check certification validity** Steps: Open property profile → Click “Certifications” → Click “View Certification Details.” Expected: System displays certification validity status (Valid/Expired/Pending Inspection) together with the certification date and expiration date. |
 | **5\. Compare certification with complaints** Steps: Open property profile → Click “Certifications” → Click “Related Complaints.” Expected: System displays a list of complaints submitted after the most recent inspection, allowing the user to compare them with the certification results. |
 
 # **Persona 2: Matjaž Horvat (Independent Landlord)**
