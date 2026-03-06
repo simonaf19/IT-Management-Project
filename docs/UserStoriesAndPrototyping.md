@@ -31,8 +31,19 @@
 
 # **Persona 2: Matjaž Horvat (Independent Landlord)**
 
+### **User story 1**
+
+As an independent landlord, I want to obtain an official housing quality and safety certification for my apartment so that I can objectively prove its condition and increase tenant trust before signing a contract.
+
+| Test Cases |
+| :---- |
+| **1\.  Apply for certification** Steps: Log into landlord account → Select property → Click “Apply for Certification” → Upload required documents → Submit request Expected: System confirms submission, displays application status as “Pending Inspection”, and sends confirmation notification. |
+| **2\. Schedule and complete inspection** Steps: Open certification request → Select available inspection date → Confirm appointment Expected: Inspection date is scheduled and visible in the dashboard. After inspection, the system updates its status to “Inspection Completed” and displays the results. |
+| **3\. Receive certification and display badge** Steps: After successful inspection → Open property profile → View certification status Expected: System displays “Certified” status, shows certification validity period, inspection summary, and automatically adds certification badge to public property listing. |
 
 ### **User story 2**
+
+As an independent landlord, I want to have documented inspection records available in case of disputes or negative reviews so that I can protect my reputation with verifiable evidence.
 
 | Test Cases |
 | :---- |
@@ -43,6 +54,8 @@
 ### 
 
 ### **User story 3**
+
+As an independent landlord, I want a standardized move-in condition report that both the tenant and I can confirm before signing the contract so that we clearly agree on the apartment’s condition and responsibilities.
 
 | Test Cases |
 | :---- |
