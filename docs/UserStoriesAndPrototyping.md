@@ -11,23 +11,39 @@
 
 ### **User story 1**
 
+As a tenant, I want to be able to verify that the housing listed is safe and look at recently made inspections and verifications issued, instead of finding out about its problems after signing the contract.
+
 | Test Cases |
 | :---- |
 | **1\. View risk summary** Steps: Open property profile → click “Safety Overview.” Expected: System shows a summarized risk indicator (low/medium/high) based on inspection results and complaint history. |
 | **2\. Property not found in registry** Steps: Search the building address not registered in the system Expected: System displays message “Property not yet verified” and suggests checking certification status or requesting inspection. |
+| **3\. Look for reviews and complaints on the property** Steps: On the property record → open “Reviews and Complaints.” Expected: List of complaints and reviews with a timeline step showing when it was issued. |
+| **4\. View risk summary** Steps: Open property profile → click “Safety Overview.” Expected: System shows a summarized risk indicator (low/medium/high) based on inspection results and complaint history. |
+| **5\. Property not found in registry** Steps: Search the building address not registered in the system Expected: System displays message “Property not yet verified” and suggests checking certification status or requesting inspection. |
 
 ### **User story 2**
+
+As a tenant, I want to leave reviews and comments on my experience with the housing to warn new potential tenants and get attention of officials to the problems.
 
 | Test Cases |
 | :---- |
 | **1\. Edit submitted review** Steps: Open previously submitted review → click “Edit.” Expected: User can update description or rating while keeping the original timestamp history. |
 | **2\. Report inappropriate review** Steps: Open review → click “Report.” Expected: System flags review for moderation and sends notification to administrators. |
+| **3\. Sort reviews by timeline and relevancy** Steps: Open property profile → Click “Reviews and Complaints” → Click “Sort By” → Select “Relevance.” Expected: User will observe reviews sorted in terms of their current relevance, indicating whenever described pros and cons in the review are still present. |
+| **4\. Edit submitted review** Steps: Open previously submitted review → click “Edit.” Expected: User can update description or rating while keeping the original timestamp history. |
+| **5\. Report inappropriate review** Steps: Open review → click “Report.” Expected: System flags review for moderation and sends notification to administrators. |
 
 ### **User story 3**
+
+As a tenant, I want to check the validity of a property's certification via a public registry and previous tenant reviews so that I can avoid signing a contract for an unverified or risky apartment.
+
 | Test Cases |
 | :---- |
 | **1\. Check certification validity** Steps: Open property profile → Click “Certifications” → Click “View Certification Details.” Expected: System displays certification validity status (Valid/Expired/Pending Inspection) together with the certification date and expiration date. |
 | **2\. Compare certification with complaints** Steps: Open property profile → Click “Certifications” → Click “Related Complaints.” Expected: System displays a list of complaints submitted after the most recent inspection, allowing the user to compare them with the certification results. |
+| **3\. Contact officials to ask for clarification of information on housing** Steps: On a housing profile → open “Certifications” section → click on “Contact support” button Expected: Antonio writes a question to the official housing inspector and asks further questions about the inspection and certification results |
+| **4\. Check certification validity** Steps: Open property profile → Click “Certifications” → Click “View Certification Details.” Expected: System displays certification validity status (Valid/Expired/Pending Inspection) together with the certification date and expiration date. |
+| **5\. Compare certification with complaints** Steps: Open property profile → Click “Certifications” → Click “Related Complaints.” Expected: System displays a list of complaints submitted after the most recent inspection, allowing the user to compare them with the certification results. |
 
 # **Persona 2: Matjaž Horvat (Independent Landlord)**
 
