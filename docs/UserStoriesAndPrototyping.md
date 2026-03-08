@@ -82,3 +82,51 @@ As an independent landlord, I want a standardized move-in condition report that 
 
 # **Persona 3: Nina Kovač (Municipal Housing Officer)**
 
+### **User story 1**
+
+As a municipal housing officer, I want to see a centralized view of properties with recurring issues and inspection history, so I can monitor risk patterns proactively instead of reacting to complaints.
+
+| Test Cases |
+| :---- |
+| **1\. Search by building and view history** Steps: Enter building address → open “History.” Expected: Shows past inspections, outcomes, issues, and certification changes over time. |
+| **2\. Flag recurring issues** Steps: Property has the same issue (e.g., humidity) across ≥2 inspections Expected: System highlights “Recurring issue” badge and counts occurrences. |
+| **3\. Complaint-to-property linking** Steps: Open a complaint → link to property record Expected: Complaint attaches to the correct property; appears in timeline. |
+| **4\. Risk dashboard filters** Steps: Filter dashboard by “High severity”, “Expired certifications”, “Multiple complaints.” Expected: Result list updates correctly; counts match the filtered dataset. |
+| **5\. No centralized data case** Steps: Search for a non-registered property Expected: Shows “Not registered” and prompts: “Recommend certification/schedule inspection”. |
+| **6\. Role-based access** Steps: Nina views administrative details Expected: She sees additional fields (internal notes, enforcement status) not visible to the public. |
+
+### 
+
+### 
+
+### **User story 2**
+
+As a municipal housing officer, I want to generate a housing quality trends report with measurable indicators, so I can provide evidence-based updates to my supervisor.
+
+| Test Cases |
+| :---- |
+| **1\. Report by date range:** Steps: Select the last 12 months → generate report Expected: Includes totals: \#inspections, \#certified, \#expired, \#failed, common issue categories. |
+| **2\. Trend chart data consistency:** Steps: Generate a monthly trend for “humidity-related findings.” Expected: Values equal the underlying inspection records for each month. |
+| **3\. Export formats** Steps: Export report as PDF and CSV Expected: Both exports succeed; CSV contains raw numbers; PDF contains charts \+ summary text.  |
+| **4\. Comparability across properties** Steps: Run “compare neighborhoods” or areas Expected: Metrics normalized (e.g., per 100 properties) or clearly labeled as raw counts. |
+| **5\. Missing data handling** Steps: Include properties with incomplete inspection fields Expected: Report labels them as “Unknown/Incomplete” and does not crash. |
+| **6\. Supervisor-ready summary** Steps: Open the generated report cover page Expected: Contains 3–5 key findings (e.g., top recurring risks, compliance rate, areas with most expirations). |
+
+### 
+
+### 
+
+### **User story 3**
+
+As a municipal housing officer, I want to get alerts for high-risk situations (e.g., repeated complaints, expired certification, failed inspection), so I can prioritize actions and reduce administrative workload.
+
+| Test Cases |
+| :---- |
+| **1\. Alert on expired certification** Steps: Certification passes expiry date Expected: Alert created with property ID, expiry date, and recommended next step (re-inspection). |
+| **2\. Alert on failed inspection** Steps: Inspector marks “Fail.” Expected: Nina receives an alert immediately; the property is marked “Not compliant” internally. |
+| **3\. Alert threshold for repeated complaints** Steps: Log 3 complaints in 30 days for the same property Expected: “High complaint volume” alert triggers with complaint list attached. |
+| **4\. Alert deduplication** Steps: Same condition persists across days Expected: System does not spam duplicates; updates existing alert with new events.  |
+| **5\.  Priority ranking** Steps: View the alert dashboard Expected: Alerts sorted by severity/urgency (Fail \> Expired \> repeated complaints). |
+| **6\. Close/resolve alert workflow** Steps: Nina marks alert “Resolved” after inspection/fix verified Expected: Alert status changes; resolution note required; audit trail saved. |
+
+
