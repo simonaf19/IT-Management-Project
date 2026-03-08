@@ -4,7 +4,7 @@
 
 ## *User Stories and Prototyping*
 
-##GitHub: http://github.com/simonaf19/IT-Management-Project/blob/main/docs/UserStoriesAndPrototyping.md
+GitHub: http://github.com/simonaf19/IT-Management-Project/blob/main/docs/UserStoriesAndPrototyping.md
 
 **March 2026**  
 **Authors:** Anastasija Simunoska 89231023, Simona Filiposka 89231165, Zhasmin Sarvarova 89231228, Amir Garipov 89231145
