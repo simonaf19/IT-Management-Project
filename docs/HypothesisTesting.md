@@ -91,3 +91,46 @@ This interview shows that students mainly focus on **price and availability** wh
 
 * Include **filters for price and apartment type** (e.g., one-room apartments) to help students find affordable options faster.
 
+# **Young professional (Tenant)**
+
+**Person interviewed:**  
+Age: 22  
+Role: Young professional renting an apartment  
+Background: Moving to Ljubljana for a new job and searching for housing.
+
+## **Questions and Answers**
+
+1. **What are the most important factors when choosing an apartment?**  
+   Location and commuting time to work is one of the most important factors. The second one is price and affordability. Another preference is having parking.   
+     
+2. **How much time did you spend searching for an apartment?**  
+   Around 2 months.  
+     
+3. **Where did you look for an apartment?**  
+   I looked through personal connections and Facebook groups.   
+     
+4. **What information do you wish housing platforms showed more clearly?**  
+   The total monthly cost which includes utilities. Also, detailed description and photos of the apartment.   
+     
+5. **Have you ever experienced misleading or inaccurate apartment listings?**  
+   Yes, many times. The misleading information is usually regarding price, deposits, apartment conditions.  
+     
+6. **What concerns do you have when renting from a landlord for the first time?**  
+   I worry about deposit issues, and whether the landlord will respond quickly to maintenance problems.  
+     
+7. **Would a platform that verifies rental listings make the search easier for you?**  
+   Yes, it would help me. Especially if I could report the issues publicly in order to warn others or so that authorities can react.  
+     
+8. **What features would you want in an ideal apartment search platform?**  
+   Verified listings, clear rental costs, reliable photos, and the ability to contact landlords easily.
+
+## **Conclusion**
+
+This interview shows that young professionals prioritize location, commuting convenience, and affordability when searching for housing. A key issue is the lack of transparency in rental listings. Misleading information about price, deposits, and the actual condition of apartments seems to be a common problem. Renters also worry about deposit safety and whether landlords will handle maintenance problems in a timely manner. A platform that verifies listings and allows tenants to report issues publicly would increase confidence in the process.
+
+### **Possible Improvement Suggestions (Young Professional Perspective)**
+
+* Show the **full monthly cost including utilities and deposits** to prevent misleading price information.  
+* Include **filters for location and parking**, since these are important factors for young professionals.  
+* Include **verified photos from inspections** so renters can see the real condition of the apartment, not only landlord-provided images.
+
