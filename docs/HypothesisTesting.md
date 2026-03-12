@@ -37,7 +37,7 @@ Yes, definitely. As a parent, I would prefer to rent a certified apartment becau
 
 This interview supports the idea that **parents who help their children find housing also need reliable and transparent information about apartment safety and condition**. A platform that provides **inspection records, certifications, and tenant feedback** would help parents make safer decisions when choosing housing for their children.
 
-**Possible Improvement Suggestions (Parent Perspective)**
+### **Possible Improvement Suggestions (Parent Perspective)**
 
 * Add a **clear certification badge** so parents can quickly see if the apartment is safe.
 
