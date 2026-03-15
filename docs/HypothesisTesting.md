@@ -134,3 +134,5 @@ This interview shows that young professionals prioritize location, commuting con
 * Include **filters for location and parking**, since these are important factors for young professionals.  
 * Include **verified photos from inspections** so renters can see the real condition of the apartment, not only landlord-provided images.
 
+
+Link to a prototype with all suggestions considered: https://bunch-above-23171971.figma.site/
