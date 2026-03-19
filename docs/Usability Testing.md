@@ -97,3 +97,24 @@ Moderated usability testing. The participant was asked to complete tasks while t
 
 * The participant preferred quick, simple indicators instead of detailed information
 
+## **Participant – Young professional**
+
+**Profile:** 22-year-old professional
+
+| Task | Success | Time | Issues |
+| :---- | :---- | :---- | :---- |
+| Find a property and check if it is safe | Yes | 30s | None, easy to find |
+| View certification status and inspection history | Yes | 1min | Not clearly connected to concerns like landlord reliability  |
+| Check reviews and complaints | Yes | 50s | Confused it with complaints |
+| Identify if the property has any risks | Yes | 1.5min | Unsure whether to rely on inspection data or complaints |
+
+**Observations:**
+
+* The participant prioritized location and total cost before considering safety details  
+* The participant showed a preference for clear signals rather than detailed or technical information  
+* Reviews and complaints were important for decision-making
+
+**Issues Observed:**
+
+* Lack of clarity between reviews and complaints caused confusion  
+* The participant hesitated when identifying risks due to multiple disconnected information sources
