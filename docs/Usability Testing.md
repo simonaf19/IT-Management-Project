@@ -8,6 +8,69 @@
 **March 2026**  
 **Authors:** Anastasija Simunoska 89231023, Simona Filiposka 89231165, Zhasmin Sarvarova 89231228, Amir Garipov 89231145
 
+# **1\. Usability Testing Plan**
+
+**Objective**  
+The goal of this testing is to evaluate how easily users can navigate the platform and understand housing safety information, such as certifications, inspections, and complaints.
+
+**Target Users**
+
+* Parent of a student looking for rental housing
+
+* International student
+
+* Young professional
+
+**Method**  
+Moderated usability testing. The participant was asked to complete tasks while thinking aloud, and notes, including time, were recorded.
+
+**Tasks**
+
+1. Find a property and check if it is safe
+
+2. View certification status and inspection history
+
+3. Check reviews and complaints
+
+4. Identify if the property has any risks
+
+**Success Criteria**
+
+* Tasks completed without major confusion
+
+* User understands certification and safety information
+
+* The user can identify risks
+
+**2\. Testing Results (Minutes)**
+
+## **Participant – Parent**
+
+**Profile:** 50-year-old parent
+
+| Task | Success | Time | Issues |
+| :---- | :---- | :---- | :---- |
+| Find a property and check if it is safe | Yes | 40s | None |
+| View certification status and inspection history | Yes | 2min | Confusing details |
+| Check reviews and complaints | Yes | 1min | None |
+| Identify if the property has any risks | Yes | 1.5min | Slight hesitation |
+
+**Observations:**
+
+* The participant focused mainly on safety and certification
+
+* They preferred simple summaries instead of detailed reports
+
+* Reviews and complaints were very important for decision-making
+
+**Issues Observed:**
+
+* Certification details were not immediately clear
+
+* Inspection information seemed too technical
+
+* The participant wanted a clearer indication of whether the property is safe
+
 
 ## **Participant – Student**
 
