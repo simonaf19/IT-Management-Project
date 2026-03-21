@@ -118,3 +118,32 @@ Moderated usability testing. The participant was asked to complete tasks while t
 
 * Lack of clarity between reviews and complaints caused confusion  
 * The participant hesitated when identifying risks due to multiple disconnected information sources
+
+  # **3\. Test Findings**
+
+**What needs to be fixed?**
+
+* Simplify certification and inspection information  
+* Add a clear safety indicator (e.g., color or badge)  
+* Clearly distinguish between reviews and complaint**s**  
+* Provide a simple summary of risks
+
+**Did any tasks cause problems?**
+
+* Task 2 (viewing certification and inspection data) caused the most confusion
+
+**Time spent on tasks**
+
+* Most tasks were completed within 1 minute
+
+* Task 2 took the longest (2 minutes)
+
+**Which task was most intuitive?**
+
+* Task 1 (finding a property) was the easiest and most intuitive
+
+**Conclusion**  
+The testing showed that the system is generally easy to use, but safety-related information should be clearer and simpler, especially for non-technical users like parents.
+
+Users prefer simple, trustworthy indicators and real-user feedback over technical inspection details. To improve usability, the platform should present safety and risk in a clear and summarized way.
+
