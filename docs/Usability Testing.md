@@ -42,7 +42,7 @@ Moderated usability testing. The participant was asked to complete tasks while t
 
 * The user can identify risks
 
-**2\. Testing Results (Minutes)**
+# **2\. Testing Results (Minutes)**
 
 ## **Participant – Parent**
 
