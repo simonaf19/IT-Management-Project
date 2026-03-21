@@ -119,7 +119,7 @@ Moderated usability testing. The participant was asked to complete tasks while t
 * Lack of clarity between reviews and complaints caused confusion  
 * The participant hesitated when identifying risks due to multiple disconnected information sources
 
-  # **3\. Test Findings**
+# **3\. Test Findings**
 
 **What needs to be fixed?**
 
