@@ -63,6 +63,8 @@ The initial backlog is based on usability testing insights:
 
 At this stage, the team has implemented a **high-fidelity interactive prototype in Figma**, which represents the core functionality and user experience of the platform.
 
+https://bunch-above-23171971.figma.site/
+
 The prototype focuses on solving the main usability issues identified during testing: **complex safety data, lack of clarity, and low trust in housing information**.
 
 ## **Implemented Features (Based on Prototype)**
