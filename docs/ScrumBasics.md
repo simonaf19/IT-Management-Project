@@ -67,7 +67,7 @@ The prototype focuses on solving the main usability issues identified during tes
 
 ## **Implemented Features (Based on Prototype)**
 
-#### **1\. Dashboard – Simplified Safety Overview**
+### **1\. Dashboard – Simplified Safety Overview**
 
 The main dashboard provides users with an immediate understanding of the system status through visual cards:
 
@@ -76,7 +76,7 @@ The main dashboard provides users with an immediate understanding of the system 
 * Active Complaints (Red) → highlights risks  
 * Scheduled Inspections (Blue) → upcoming actions
 
-#### **2\. Property Inspection View (Safety Breakdown)**
+### **2\. Property Inspection View (Safety Breakdown)**
 
 Each property includes a structured inspection panel:
 
