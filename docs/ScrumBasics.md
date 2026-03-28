@@ -58,6 +58,47 @@ The initial backlog is based on usability testing insights:
 
 **Low Priority:**  
  6\. General UI improvements
+ 
+# **Sprints and To-dos** 
+
+### **Sprint 0: Planning & Infrastructure**
+
+*Focus: Setting the technical and visual foundation for the team.*
+
+| Task ID | Task & Elaboration | Subtasks | Complexity |
+| :---- | :---- | :---- | :---- |
+| **0.1** | **Environment Setup:** Configure the workspace for Anastasija, Simona, Zhasmin, and Amir. | • Create **Jira** project & workflow. • Create a shared notebook in Notion for shared documentation. • Set up **Trello** for high-level visual progress tracking. | 1 SP |
+| **0.2** | **Design System (Figma):** Establish the "Safety Visual Language" to replace technical jargon. | • Define color palette for application. • Create a library of reusable "Safety Icons." • Draft mobile-first typography for readability. | 3 SP |
+| **0.3** | **Persona Requirements:** Define what "Safety" means to each user segment. | • List "Parent" priorities (e.g., Fire/Electrical). • List "Student" priorities (e.g., Security/Reviews). • Map data points to specific user needs. | 2 SP |
+
+### **Sprint 1: Core Safety Visualization**
+
+*Focus: High-priority simplification of complex inspection data.*
+
+| Task ID | Task & Elaboration | Subtasks | Complexity |
+| :---- | :---- | :---- | :---- |
+| **1.1** | **Safety Indicator System:** The logic behind the color-coded certification badges. | • Define scoring for Gold/Silver/Bronze safety tiers. • Design "Info Tooltips" to explain badge meaning. • Build the logic for automated badge assignment. | 5 SP |
+| **1.2** | **Certification Simplification:** Transforming dense text into a visual dashboard. | • Replace legal jargon with "Pass/Fail" indicators. • Add a "Last Verified" date stamp for clarity. | 3 SP |
+| **1.3** | **Inspection Readability:** Making raw data scannable at a glance. | • Create a "Top 3 Takeaways" section per report. • Design a checklist UI for pending inspections. • Build a "Property Comparison" safety view. | 3 SP |
+
+### **Sprint 2: Risk & Feedback Management**
+
+*Focus: Medium-priority categorization and "Red Flag" identification.*
+
+| Task ID | Task & Elaboration | Subtasks | Complexity |
+| :---- | :---- | :---- | :---- |
+| **2.1** | **Feedback Categorization:** Separating lifestyle reviews from safety complaints. | • Implement a "Safety vs. Lifestyle" tab system. • Design a "Report Urgent Concern" button. • Create a "Landlord Resolution" status tag. | 3 SP |
+| **2.2** | **Risk Summary Section:** A high-level overview of potential property hazards. | • Categorize "Critical Failures" (e.g., Mold/Locks). • Design a "Warning Box" for failed safety metrics. • Implement a "Risk Level Meter" on property cards. | 5 SP |
+| **2.3** | **Data Mapping:** Connecting back-end inspection points to the UI summary. | • Link specific raw data to the Risk Summary UI. • Ensure data refreshes when new reports are uploaded. | 3 SP |
+
+### **Sprint 3: Polishing & Finalization**
+
+*Focus: Low-priority refinements and project hand-off.*
+
+| Task ID | Task & Elaboration | Subtasks | Complexity |
+| :---- | :---- | :---- | :---- |
+| **3.1** | **General UI Improvements:** Fine-tuning the interface based on pilot feedback. | • Optimize mobile responsiveness for students. • Improve loading states for data-heavy tables. • Conduct a final "UX Walk-through" for flow. | 3 SP |
+| **3.2** | **Project Documentation:** Finalizing the records for the March 2026 deadline. | • Finalize "Scrum Basics" report in Notion. • Clean up Figma files for developer hand-off. • Archive completed Jira tasks and Sprint logs. | 1 SP |
 
  # **Sprint Implementation (Current Progress)**
 
