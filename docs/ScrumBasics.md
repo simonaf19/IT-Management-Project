@@ -3,12 +3,6 @@
 
 ## *Scrum Basics*
 
-## 
-
-## 
-
-## 
-
 **March 2026**  
 **Authors:** Anastasija Simunoska 89231023, Simona Filiposka 89231165, Zhasmin Sarvarova 89231228, Amir Garipov 89231145
 
@@ -64,3 +58,62 @@ The initial backlog is based on usability testing insights:
 
 **Low Priority:**  
  6\. General UI improvements
+
+ # **Sprint Implementation (Current Progress)**
+
+At this stage, the team has implemented a **high-fidelity interactive prototype in Figma**, which represents the core functionality and user experience of the platform.
+
+The prototype focuses on solving the main usability issues identified during testing: **complex safety data, lack of clarity, and low trust in housing information**.
+
+## **Implemented Features (Based on Prototype)**
+
+#### **1\. Dashboard – Simplified Safety Overview**
+
+The main dashboard provides users with an immediate understanding of the system status through visual cards:
+
+* Certified Properties (Green) → clearly indicates safe housing  
+* In Review (Orange) → shows pending approvals  
+* Active Complaints (Red) → highlights risks  
+* Scheduled Inspections (Blue) → upcoming actions
+
+#### **2\. Property Inspection View (Safety Breakdown)**
+
+Each property includes a structured inspection panel:
+
+* Categories:  
+  * Mold Assessment  
+  * Ventilation  
+  * Electrical  
+  * Structural  
+* Each category shows:  
+  * Pass / Fail status (visual badges)  
+* Additional elements:  
+  * Humidity level (with thresholds: optimal / warning / critical)  
+  * Inspector notes (human-readable summary)
+
+### **3\. Complaints System (Separate & Structured)**
+
+A dedicated page for managing housing complaints has been designed.
+
+**Filters include:**
+
+* Status (Open / Investigating / Resolved / Closed)  
+* Category
+
+**Each complaint includes:**
+
+* Description of the issue  
+* Date of submission  
+* Category (e.g., mold)  
+* Status and priority level
+
+### **4\. Clear Navigation Structure**
+
+The platform uses a simple and intuitive top navigation menu:
+
+* Dashboard  
+* Properties  
+* Inspections  
+* Complaints  
+* Reports  
+* Register Property
