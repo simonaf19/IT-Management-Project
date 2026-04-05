@@ -67,8 +67,8 @@ Ability to objectively prove property quality to attract trustworthy tenants, pr
 
 **Possible Conflicts or Benefits:** 
 
-* Benefit**:** Official certification acts as a competitive marketing advantage.  
-* Conflict: Potential loss of income if an inspection fails or if "Active Complaints" are highlighted in red on their property profile.
+**Benefit:** Official certification acts as a competitive marketing advantage.  
+**Conflict:** Potential loss of income if an inspection fails or if "Active Complaints" are highlighted in red on their property profile.
 
 **Team Response:** 
 
@@ -87,8 +87,8 @@ Adjust their service prices for high-risk vs. low-risk properties, gather potent
 
 **Possible Conflicts or Benefits:**
 
-* Benefit**:** The "Audit Trail" and "History" features provide a verifiable timeline of property maintenance.  
-* Conflict**:** Potential liability issues if the system incorrectly certifies a property that later suffers a major safety failure.
+**Benefit**: The "Audit Trail" and "History" features provide a verifiable timeline of property maintenance.  
+**Conflict**: Potential liability issues if the system incorrectly certifies a property that later suffers a major safety failure.
 
 **Team Response:**
 
