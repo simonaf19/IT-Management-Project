@@ -55,6 +55,45 @@ Safer housing options for students, reduced complaints, efficient system.
 * Involve closely in testing the program to ensure usability and relevance  
 * Adjust the system based on operational needs and user feedback.
 
+### **3\. Service Providers (Landlords)**
+
+### **Status:**
+
+Neutral to Positive.
+
+**Expectations & Interests:** 
+
+Ability to objectively prove property quality to attract trustworthy tenants, protect their reputation during disputes, avoid disagreements over damages.
+
+**Possible Conflicts or Benefits:** 
+
+* Benefit**:** Official certification acts as a competitive marketing advantage.  
+* Conflict: Potential loss of income if an inspection fails or if "Active Complaints" are highlighted in red on their property profile.
+
+**Team Response:** 
+
+* Provide a dedicated dashboard for managing certifications and downloading official PDF reports.  
+* Include a "Landlord Resolution" status tag to show when reported issues have been fixed.
+
+### **4\. Legal and Insurance Entities**
+
+**Status:** 
+
+Neutral to Positive.
+
+**Expectations & Interests:**
+
+Adjust their service prices for high-risk vs. low-risk properties, gather potential evidence during rental disputes.
+
+**Possible Conflicts or Benefits:**
+
+* Benefit**:** The "Audit Trail" and "History" features provide a verifiable timeline of property maintenance.  
+* Conflict**:** Potential liability issues if the system incorrectly certifies a property that later suffers a major safety failure.
+
+**Team Response:**
+
+* Implement a robust "Certification Validity" check and ensure all reports are exported as signed, tamper-evident PDFs.
+
 ## **5\. Students (Tenants / End Users)**
 
 **Status:** 
