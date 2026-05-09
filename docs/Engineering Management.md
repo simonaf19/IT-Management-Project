@@ -75,3 +75,30 @@ Conflicts are expected—especially with landlords whose properties may receive 
 * Show **history of improvements**, not just problems
 
 * Ensure **fair and objective certification criteria**
+
+# **Positive Patterns**
+
+### **1\. Safety-First** 
+
+### To ensure the platform is intuitive, we prioritize high-priority simplification of complex inspection data.
+
+* **Why it's effective:** It allows parents and students to understand safety metrics without needing technical expertise.
+
+* **How we implement it:** We use a "Top 3 Takeaways" section for every report and a "Risk Level Meter" on property cards. The dashboard provides immediate status updates through color-coded cards: Green for certified, Orange for in-review, and Red for active complaints.
+
+### **2\. Constructive Conflict Resolution** 
+
+### Conflicts are expected with landlords whose properties may fail inspections, so the system must facilitate improvement rather than just punishment.
+
+* **Why it's effective:** It encourages landlord participation and reduces legal or reputational friction.
+
+* **How we implement it:** We include specific "Issue Resolved" and "Landlord Resolution" status tags. By showing a history of improvements rather than just problems, we provide a fair and objective certification environment that incentivizes landlords to maintain high safety standards.
+
+### **3\. Persona-Driven Requirement Mapping** 
+
+### Defining what "Safety" means to different user segments ensures the data we show is relevant to the person viewing it.
+
+* **Why it's effective:** It ensures the UI addresses the specific anxieties of different stakeholders, such as parents focusing on fire safety versus students focusing on security.
+
+* **How we implement it:** During our planning phase (Sprint 0), we listed specific priorities for "Parents" and "Students" to map back-end data points to these unique user needs. This allows the UI to highlight the most relevant safety metrics for each group.
+
