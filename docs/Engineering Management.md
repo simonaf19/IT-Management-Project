@@ -74,7 +74,7 @@ A certification program with real stakeholders requires the team to adapt as req
 
 At the end of each sprint, we conduct a short retrospective on what went well, what did not, and what we will do differently next time. We also review stakeholder feedback regularly and use it to adjust priorities. 
 
-**3\. Be a Catalyst**   
+## **3\. Be a Catalyst**   
 A good team member does not just complete their own tasks; they actively help the rest of the team move forward by removing blockers and keeping momentum going. 
 
 ### **Why it’s effective:**
