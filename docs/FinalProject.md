@@ -218,6 +218,7 @@ Provides supervision and approves key project decisions. Members participate as 
 The project is assessed as medium risk due to possible low participation from landlords, dependency on institutional cooperation, legal liability concerns related to certification, and budget limitations.  These risks will be managed through clear legal guidelines, institutional support, phased implementation, and awareness campaigns to encourage participation.
 
 # **2\. Personas and Problem Scenarios** {#2.-personas-and-problem-scenarios}
+After defining the overall goals and structure of the project, the next step was identifying the real users affected by housing safety and transparency issues. To better understand their needs, concerns, and expectations, we created personas and realistic problem scenarios based on potential stakeholders of the system.
 
 ## **Persona 1: Antonio González** {#persona-1:-antonio-gonzález}
 
@@ -316,6 +317,7 @@ She believes that the municipality should have clearer housing standards and mea
 |  | Nina conducts occasional surveys to estimate housing satisfaction levels. | Survey responses are irregular, voluntary, and may not accurately reflect structural safety or hidden issues. |  |
 
 # **3\. User Stories and Prototyping** {#3.-user-stories-and-prototyping}
+Once the key user groups and their problems were identified, the next phase focused on translating these needs into concrete system functionality. User stories and prototype concepts were created to define how different users would interact with the platform in practice.
 
 ## **Persona 1: Antonio Gonzalez (Tenant)** {#persona-1:-antonio-gonzalez-(tenant)}
 
@@ -425,6 +427,7 @@ As a municipal housing officer, I want to get alerts for high-risk situations (e
 | **6\. Close/resolve alert workflow** Steps: Nina marks alert “Resolved” after inspection/fix verified Expected: Alert status changes; resolution note required; audit trail saved. |
 
 # **4\. Hypothesis Testing** {#4.-hypothesis-testing}
+After defining the proposed functionality, we conducted interviews to validate whether the identified problems and assumptions reflected real user experiences. The goal of the hypothesis testing phase was to evaluate the relevance and practicality of the proposed solution from multiple perspectives.
 
 ## **Parent of a Student Tenant** {#parent-of-a-student-tenant}
 
@@ -543,6 +546,7 @@ This interview shows that young professionals prioritize location, commuting con
 * Include **verified photos from inspections** so renters can see the real condition of the apartment, not only landlord-provided images.
 
 # **5\. Usability Testing** {#5.-usability-testing}
+Based on the interview insights and defined user stories, an initial prototype of the platform was tested with representative users. The usability testing phase focused on evaluating how clearly users understood safety information and how easily they could navigate the system.
 
 ## **Usability Testing Plan** {#usability-testing-plan}
 
@@ -671,6 +675,7 @@ The testing showed that the system is generally easy to use, but safety-related 
 Users prefer simple, trustworthy indicators and real-user feedback over technical inspection details. To improve usability, the platform should present safety and risk in a clear and summarized way.
 
 # **6\. Scrum Basics** {#6.-scrum-basics}
+After identifying usability issues and defining the main improvements, the project moved into the implementation planning phase. Scrum methodology was used to organize development priorities, structure the workflow, and divide the implementation into manageable sprints.
 
 ## **1\. Sprint 0 – Planned Implementation** {#1.-sprint-0-–-planned-implementation}
 
@@ -828,7 +833,8 @@ The platform uses a simple and intuitive top navigation menu:
 * Register Property
 
 
-  # **7\. Project Stakeholders**  {#7.-project-stakeholders}
+# **7\. Project Stakeholders**  {#7.-project-stakeholders}
+Since the project involves multiple organizations, institutions, and end users, stakeholder management plays an important role in ensuring successful implementation. This section identifies the main stakeholders, their interests, and the team’s approach to collaboration and conflict management.
 
 ## **1\. University of Primorska (Contracting Authority)** {#1.-university-of-primorska-(contracting-authority)}
 
@@ -932,6 +938,7 @@ Students want safe, reliable, and affordable housing. They expect clear and tran
 * Include reviews and complaint visibility to support decision-making 
 
 # **8\. Engineering Management** {#8.-engineering-management}
+In addition to technical and organizational planning, the project also required reflection on internal team dynamics and collaboration practices. This section analyzes both positive and negative management patterns observed during the project development process.
 
 In our **Housing Quality & Safety Certification Program**, the most important patterns are team and stakeholder management patterns because the success of the project depends on communication, collaboration, trust, and continuous feedback between team members and stakeholders.
 
