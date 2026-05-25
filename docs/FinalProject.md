@@ -6,7 +6,8 @@
 ***Final Project***
 
 Github: https://github.com/simonaf19/IT-Management-Project/blob/main/docs/Engineering%20Management.md
-Google Document: https://docs.google.com/document/d/1z0YC92dHlk9U4Bp4zvCCJe1_C7Z5I-TCiYri2XXzB3s/edit?usp=sharing
+
+Google Document: (https://docs.google.com/document/d/1z0YC92dHlk9U4Bp4zvCCJe1_C7Z5I-TCiYri2XXzB3s/edit?usp=sharing)
 
 **May 2026**  
 **Authors:** Anastasija Simunoska 89231023, Simona Filiposka 89231165, Zhasmin Sarvarova 89231228, Amir Garipov 89231145
